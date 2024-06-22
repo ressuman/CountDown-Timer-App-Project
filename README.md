@@ -2,14 +2,14 @@
 
 ## 🎯 Objectives
 
-The goal of this assignment is to demonstrate your understanding of basic JavaScript concepts such as variables, functions, and objects. You will also learn how to use JavaScript to manipulate the DOM and create interactive web pages.
+The goal of this project is to demonstrate your understanding of basic JavaScript concepts such as variables, functions, and objects. I will also learn how to use JavaScript to manipulate the DOM and create interactive web pages.
 
 ## ✅ Task: Countdown App
 
 - Open the `task-2-countdown-app` folder in VS Code and open the `index.html` file in your browser.
-- You should see a countdown app with multiple countdown timers.
-- Your task is to make the countdown timers work.
-- For this task, you will need to edit the just the `script.js` file.
+- I should see a countdown app with multiple countdown timers.
+- My task is to make the countdown timers work.
+- For this task, I will need to edit the just the `script.js` file.
 
 - **_Hint:_** Look up the [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) object in JavaScript.
 - **_Hint:_** Look up the [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) method in JavaScript.
@@ -22,7 +22,7 @@ The goal of this assignment is to demonstrate your understanding of basic JavaSc
 
 ## ☕ Resources
 
-If you need help with any of the concepts covered in this assignment, here are some resources that you might find useful:
+If help is needed with any of the concepts covered in this project, here are some resources that might be useful:
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [W3Schools](https://www.w3schools.com/js/)
